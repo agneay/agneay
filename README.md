@@ -19,7 +19,7 @@ I love learning something new each day
 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100">
 </p>
 
-![coder_gif](code.gif)
+<img src="code.gif" width="500">
 
 <!-- Github stats -->
 [![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay)](https://github.com/anuraghazra/github-readme-stats)
