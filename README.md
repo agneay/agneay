@@ -28,6 +28,7 @@ I love learning something new each day
 <div align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="100">
 </div>
 
 * Text editor's I love
@@ -38,6 +39,7 @@ I love learning something new each day
 * other stuff's I use
 <div align="left">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
 </div>
 
 <img src="code.gif" width="500">
