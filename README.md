@@ -1,5 +1,5 @@
 <!--- A little about myself -->
-# Hi there 👋
+# 👋 Hi there 
 ## My name is Agneay
 ### I am a full stack web devoloper
 I love learning something new each day
