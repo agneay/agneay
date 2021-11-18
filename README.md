@@ -5,8 +5,9 @@
 I love learning something new each day
 
 <!-- Github stats -->
-[![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay)](https://github.com/anuraghazra/github-readme-stats)
+[![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay)](https://github.com/anuraghazra/github-readme-stats)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=agneay)  
 * Web frame works I use
 <div align="left">
   <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100">
@@ -43,6 +44,9 @@ I love learning something new each day
 </div>
 
 <img src="code.gif" width="500">
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agneay)
 
 <!-- Contact me -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Agneay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/agneaybnair/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@agneay)  [<img
