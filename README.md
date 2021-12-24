@@ -5,7 +5,7 @@
 I love learning something new each day
 
 <!-- Github stats -->
-[![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay)](https://github.com/anuraghazra/github-readme-stats)  
+[![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=agneay)  
 * Web frame works I use
