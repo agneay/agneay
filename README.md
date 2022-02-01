@@ -42,6 +42,7 @@ I love learning something new each day
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agneay&show_icons=true&locale=en&layout=compact" alt="agneay" /></p>
 
 <img src="code.gif" width="500">
 
