@@ -1,5 +1,5 @@
 <!--- A little about myself -->
-# 👋 Hi there 
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">  Hi there 
 ## My name is Agneay
 ### I am a full stack web devoloper and also a linux expert
 I love learning something new each day
@@ -52,4 +52,4 @@ I love learning something new each day
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15565138)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://Agneay.hashnode.dev)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCnNHBTNAf_4g2fqmFKXLtJA)    
 
 
-
+![snake gif](https://github.com/ayamir/ayamir/blob/output/github-contribution-grid-snake.gif)
