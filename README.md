@@ -4,6 +4,8 @@
 ### I am a full stack web devoloper and also a linux expert
 I love learning something new each day
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
+
 <!-- Github stats -->
 [![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
