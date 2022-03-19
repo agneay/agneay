@@ -6,6 +6,10 @@ I love learning something new each day
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
 
+![followers](https://img.shields.io/github/followers/agneay?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/agneay?style=for-the-badge)
+![tweet_followers](https://img.shields.io/twitter/follow/agneay?style=for-the-badge)
+
 <!-- Github stats -->
 [![Agneay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agneay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
