@@ -6,6 +6,10 @@ I love learning something new each day
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
 
+- 🧑🏻‍💻 coding is my passion
+- 💪🏻 I am working on my repos
+- 🕵🏻‍♂️ I like doing quality work
+
 ![followers](https://img.shields.io/github/followers/agneay?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/agneay?style=for-the-badge)
 ![tweet_followers](https://img.shields.io/twitter/follow/agneay?style=for-the-badge)
