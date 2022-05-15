@@ -1,14 +1,14 @@
 <!--- A little about myself -->
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">  Hi there 
 ## My name is Agneay
-### I am a full stack web devoloper and also a linux expert
-I love learning something new each day
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
 
 - 🧑🏻‍💻 coding is my passion
 - 💪🏻 I am working on my repos
 - 🕵🏻‍♂️ I like doing quality work
+- 🙂 I am proud of what I am 
+- 🚀 I love learning something new each day
 
 ![followers](https://img.shields.io/github/followers/agneay?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/agneay?style=for-the-badge)
