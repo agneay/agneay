@@ -1,12 +1,13 @@
 <!--- A little about myself -->
 ## Hi, My name is Agneay
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
+<img src="code.gif" width="300" align="right" style="float:right;">
 - 🧑🏻‍💻 coding is my passion
 - 💪🏻 I am working on my repos
 - 🕵🏻‍♂️ I like doing quality work
 - 🙂 I am proud of what I am 
 - 🚀 I love learning something new each day
-<img src="code.gif" width="300" align="right">
+
 
 <!-- Contact me -->
 #### you can catch me up on social platforms like 👇🏻
