@@ -1,5 +1,4 @@
-<!--- A little about myself -->
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">  Hi there 
+<!--- A little about myself --># <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">  Hi there 
 ## My name is Agneay
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+happy+to+see+you+here)](https://git.io/typing-svg)
